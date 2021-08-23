@@ -1,2 +1,3 @@
 Newfile
 Add new line
+Add new line 2
